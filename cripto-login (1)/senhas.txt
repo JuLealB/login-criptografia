@@ -1,0 +1,1 @@
+[{"login":"c2FyYUBnbWFpbC5jb20=","senha":"MTIzNA==","cargo":"admin"},{"login":"Z2FicmllbGFAZ21haWwuY29t","senha":"NTQzMg==","cargo":"admin"},{"login":"ZGFub2xvQGdtYWlsLmNvbQ==","senha":"YnJ1bmk=","cargo":"padrao"},{"login":"Y2FuaWxhQGdtYWlsLmNvbQ==","senha":"c2lsdmE=","cargo":"padrao"},{"login":"Y2Fsb3BzaXRhQGdtYWlsLmNvbQ==","senha":"ZmF6b2w=","cargo":"admin"}]
